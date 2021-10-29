@@ -1,0 +1,17 @@
+p{
+    color:red;
+    font-size: 1em;
+}
+
+.especifico{
+    color: darkgreen;
+}
+
+
+/*
+-(color:) Definir cor
+-(font-size:) Definir o tamanho da fonte
+
+-(.especifico) Exemplo de um seletor especifico
+
+*/

@@ -1,0 +1,41 @@
+Introdução ao HTML
+
+Geral:
+-Tecnologia front-end para criar websites estáticos
+-Usado para criar conteúdo textual
+-Linguagem de marcação
+
+arquivo: exemplo.html
+
+Sintaxe básica:
+-HTML ignora "espaços" duplos, triplos...
+-HTML não entende o "enter" para mudar de linha, tem que usar uma 'tag' (<p>exemplo</p>)
+-A maioria das tags tem que ter um comando para abrir e outro para fechar
+-Podemos adicionar atributos nas tags
+
+Onde conseguir referencias atuais sobre HTML:
+-https://www.w3.org/2009/cheatsheet/#search.p
+-Pesquisar no google "Apostila html5"
+-Site da W3C
+-https://www.w3.org/TR/2011/WD-html5-20110525/content-models.html
+-https://www.wpkube.com/html5-cheat-sheet/
+-https://developer.mozilla.org/en-US/docs/learn/HTML
+-https://roadmap.sh/roadmaps
+
+Sites para registrar o dominio do Site
+-Registros.br
+-godaddy
+-domainr
+
+Domínios de topo gratuitos
+não recomendado para construir sites de negocios
+-site (freenom)
+-.tk
+-.ml
+-.ga
+-.cf
+-.gq
+
+Serviços de hospedagem de sites
+-hostgator
+-Analisar outros tambem
